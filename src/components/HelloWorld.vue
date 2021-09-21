@@ -62,7 +62,6 @@
 
 <script>
 export default {
-  const=""
   name: "HelloWorld",
   props: {
     msg: String,
